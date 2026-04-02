@@ -29,6 +29,13 @@
   <img src="https://img.shields.io/badge/SQLite-Local%20Storage-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 
+## Видео
+
+[![Смотреть демонстрацию FoxBridge Live на YouTube](https://img.youtube.com/vi/rmEiSecHBsc/maxresdefault.jpg)](https://www.youtube.com/watch?v=rmEiSecHBsc)
+
+Короткая демонстрация работы приложения:
+https://www.youtube.com/watch?v=rmEiSecHBsc
+
 ## Что это
 
 **FoxBridge Live** нужен для простого сценария:
