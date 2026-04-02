@@ -1,0 +1,32 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="76" y1="52" x2="432" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12111A"/>
+      <stop offset="1" stop-color="#090810"/>
+    </linearGradient>
+    <linearGradient id="bridge" x1="126" y1="118" x2="396" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#68A6FF"/>
+      <stop offset="0.56" stop-color="#8A74FF"/>
+      <stop offset="1" stop-color="#DB5A86"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="154" y1="176" x2="358" y2="336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E9EEFF"/>
+      <stop offset="1" stop-color="#F8B7D0"/>
+    </linearGradient>
+    <filter id="shadow" x="44" y="44" width="424" height="424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#000000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect x="44" y="44" width="424" height="424" rx="118" fill="#07070D"/>
+  <g filter="url(#shadow)">
+    <rect x="60" y="60" width="392" height="392" rx="102" fill="url(#bg)"/>
+    <path d="M136 176C136 157.222 151.222 142 170 142H202C220.778 142 236 157.222 236 176V178C236 196.778 220.778 212 202 212H170C151.222 212 136 196.778 136 178V176Z" fill="#1B2A45"/>
+    <path d="M276 334C276 315.222 291.222 300 310 300H342C360.778 300 376 315.222 376 334V336C376 354.778 360.778 370 342 370H310C291.222 370 276 354.778 276 336V334Z" fill="#311C34"/>
+    <path d="M174 355L334 154" stroke="url(#bridge)" stroke-width="46" stroke-linecap="round"/>
+    <path d="M238 210H288C306.778 210 322 225.222 322 244C322 262.778 306.778 278 288 278H240C221.222 278 206 293.222 206 312C206 330.778 221.222 346 240 346H274" stroke="url(#pulse)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="174" cy="356" r="22" fill="#6FAEFF"/>
+    <circle cx="334" cy="154" r="22" fill="#E26A90"/>
+    <path d="M384 182C396.15 192.866 404 208.665 404 226" stroke="#B280FF" stroke-width="18" stroke-linecap="round" opacity="0.9"/>
+    <path d="M398 148C417.663 165.704 430 191.373 430 219" stroke="#C76B96" stroke-width="14" stroke-linecap="round" opacity="0.55"/>
+  </g>
+</svg>
