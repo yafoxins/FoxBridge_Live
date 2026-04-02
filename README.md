@@ -1,4 +1,4 @@
-# <div align="center"><img src="src-tauri/icons/128x128.png" width="96" alt="FoxBridge Live logo" /></div>
+# <div align="center"><img src="icons/128x128.png" width="96" alt="FoxBridge Live logo" /></div>
 
 # <div align="center">FoxBridge Live</div>
 
