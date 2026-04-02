@@ -124,19 +124,46 @@ FoxBridge Live подойдёт, если вы:
 
 ## Скачать
 
-- Репозиторий: [github.com/yafoxins/FoxBridge_Live](https://github.com/yafoxins/FoxBridge_Live)
-- Релизы и установщики: [github.com/yafoxins/FoxBridge_Live/releases](https://github.com/yafoxins/FoxBridge_Live/releases)
+<p align="center">
+  Актуальные установщики и новые версии FoxBridge Live доступны в разделе релизов GitHub.
+</p>
+
+<p align="center">
+  <a href="https://github.com/yafoxins/FoxBridge_Live/releases">
+    <img src="https://img.shields.io/badge/Скачать-Последний%20релиз-EA4AAA?style=for-the-badge" alt="Скачать последний релиз" />
+  </a>
+  <a href="https://github.com/yafoxins/FoxBridge_Live">
+    <img src="https://img.shields.io/badge/Открыть-Репозиторий-171515?style=for-the-badge&logo=github&logoColor=white" alt="Открыть репозиторий" />
+  </a>
+</p>
 
 ## Автор
 
-**YaFoxin Dev**
+<p align="center">
+  <b>YaFoxin Dev</b><br />
+  Автор проекта и разработчик FoxBridge Live
+</p>
 
-- Telegram: [t.me/yafoxindev](https://t.me/yafoxindev)
-- GitHub: [github.com/yafoxins](https://github.com/yafoxins)
+<p align="center">
+  <a href="https://t.me/yafoxindev">
+    <img src="https://img.shields.io/badge/Telegram-Написать%20автору-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/yafoxins">
+    <img src="https://img.shields.io/badge/GitHub-yafoxins-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+</p>
 
 ## Обратная связь
 
-Если вы нашли баг, хотите предложить улучшение или нужна помощь по приложению, можно:
+<p align="center">
+  Если нашли баг, хотите предложить улучшение или нужна помощь по приложению, удобнее всего написать автору или открыть issue.
+</p>
 
-- написать в Telegram: [t.me/yafoxindev](https://t.me/yafoxindev)
-- открыть issue в репозитории: [github.com/yafoxins/FoxBridge_Live/issues](https://github.com/yafoxins/FoxBridge_Live/issues)
+<p align="center">
+  <a href="https://t.me/yafoxindev">
+    <img src="https://img.shields.io/badge/Связаться-Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Связаться в Telegram" />
+  </a>
+  <a href="https://github.com/yafoxins/FoxBridge_Live/issues">
+    <img src="https://img.shields.io/badge/Issue-GitHub-EA4AAA?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Issues" />
+  </a>
+</p>
