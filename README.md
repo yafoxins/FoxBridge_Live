@@ -160,6 +160,22 @@ FoxBridge Live подойдёт, если вы:
   </a>
 </p>
 
+## Идейный вдохновитель
+
+<p align="center">
+  <b>Naynoira</b><br />
+  Идейный вдохновитель проекта FoxBridge Live
+</p>
+
+<p align="center">
+  <a href="https://www.twitch.tv/naynoira">
+    <img src="https://img.shields.io/badge/Twitch-naynoira-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
+  </a>
+  <a href="https://t.me/naynoira">
+    <img src="https://img.shields.io/badge/Telegram-@naynoira-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
+
 ## Обратная связь
 
 <p align="center">
